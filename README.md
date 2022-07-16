@@ -7,9 +7,8 @@ https://github.com/himkt/dobato
 
 ### Install
 
-(TBD)
-Download the appropriate binary for your environment.
-Place the binary where executable programs are located.
+Download the appropriate binary from [Releases](https://github.com/himkt/dobato-rs/releases) for your environment.
+Then place the binary where executable programs are located.
 
 
 ### Configure discord webhook
